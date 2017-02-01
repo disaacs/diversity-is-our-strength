@@ -5,8 +5,8 @@
 ## Publishing a post to the [site] (https://ismail-syed.github.io/diversity-is-our-strength/) :+1:
 
 You can do the following all through GitHub Web:
-* From [master](https://github.com/ismail-syed/diversity-is-our-strength) create a new branch, call it `whatever-you-want`
-* Navigate to `source/_posts` and create a new file with the following format `YYYY-MM-DD-HH-MM-some-name.md`
+* Through GitHub web, navigate to [`/source/_posts/`](https://github.com/ismail-syed/diversity-is-our-strength/tree/master/source/_posts)
+* Create a new file with the following format `YYYY-MM-DD-HH-MM-some-name.md`
 * Paste in the following and update the values appropriately!
 ```
 ---
